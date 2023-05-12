@@ -2,7 +2,6 @@ package kim.jerok.practice_spring_25.domain;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.apache.tomcat.jni.Address;
 
 import javax.persistence.*;
 import java.util.ArrayList;
